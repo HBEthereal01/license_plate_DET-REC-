@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vietnamese License Plate Recognition
 
 This repository provides you with a detailed guide on how to training and build a Vietnamese License Plate detection and recognition system. This system can work on 2 types of license plate in Vietnam, 1 line plates and 2 lines plates.
@@ -53,3 +54,7 @@ Use code in ./training folder
   training/Plate_detection.ipynb     #for LP_Detection
   training/Letter_detection.ipynb    #for Letter_detection
 ```
+=======
+# license_plate_DET-REC-
+code for ALPR_Detection and Vehicle classification
+>>>>>>> 949b5584d5d1902d5cbd4cb57391a51c7d5e58dd
